@@ -1,4 +1,4 @@
-### Olá, eu sou o Gadiel Yossef 
+### Hi, I'am Gadiel Yossef 
 
 <div align="left">
   <a href="https://github.com/gadielyossef">
